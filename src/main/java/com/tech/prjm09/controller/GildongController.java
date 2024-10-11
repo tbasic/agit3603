@@ -11,5 +11,9 @@ public class GildongController {
 		System.out.println("hhhhhh");
 		return "gildongview";
 	}
+	
+	public void aaa() {
+		System.out.println("hi");
+	}
 
 }
