@@ -17,8 +17,8 @@ public class GildongController {
 	public void bbb() {
 		System.out.println("bb");
 	}
-	public void ccc() {
-		System.out.println("cc:");
+	public void ddd() {
+		System.out.println("dd:");
 	}
 
 }
