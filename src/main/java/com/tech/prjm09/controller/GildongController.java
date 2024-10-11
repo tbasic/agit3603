@@ -10,5 +10,9 @@ public class GildongController {
 	public String gildongview() {
 		return "gildongview";
 	}
+	
+	public void aaa() {
+		System.out.println("hi");
+	}
 
 }
