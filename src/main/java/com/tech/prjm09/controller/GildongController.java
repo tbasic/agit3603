@@ -8,6 +8,7 @@ public class GildongController {
 	
 	@RequestMapping("/gildongview")
 	public String gildongview() {
+		System.out.println("hhhhhh");
 		return "gildongview";
 	}
 
