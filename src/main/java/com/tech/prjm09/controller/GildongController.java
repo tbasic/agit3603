@@ -14,5 +14,8 @@ public class GildongController {
 	public void aaa() {
 		System.out.println("hi");
 	}
+	public void bbb() {
+		System.out.println("bb");
+	}
 
 }
