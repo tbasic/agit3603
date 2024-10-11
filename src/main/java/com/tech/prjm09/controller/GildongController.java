@@ -19,6 +19,8 @@ public class GildongController {
 	}
 	public void ddd() {
 		System.out.println("dd:");
+		System.out.println("dd:");
+		
 	}
 
 }
